@@ -1,0 +1,58 @@
+*{
+    font-family: monospace;
+}
+
+body {
+    background-color: whitesmoke;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+canvas {
+    background-color: burlywood;
+    border: 2px solid black;
+    display: block;
+    margin: 0 auto;
+}
+
+#Score {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px auto;
+    text-align: center;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+    margin: 20px 10px;
+    padding: 10px;
+
+}
+
+
+#startButton {
+    background-color:skyblue;
+    display: block;
+    margin: 0 auto;
+}
+
+#resetButton {
+    background-color:sienna;
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+  
