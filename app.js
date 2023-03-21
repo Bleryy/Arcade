@@ -105,9 +105,7 @@ function checkCollision() {
 		if (snake.body[0][0] == snake.body[i][0] && snake.body[0][1] == snake.body[i][1])
 			
 		endGame()= true;
-
-		
-	}
+    }
 
 
 }
@@ -123,7 +121,6 @@ function score(){
 
 
 }
-
 
 
 function update() {
